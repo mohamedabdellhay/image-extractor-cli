@@ -1,0 +1,7 @@
+/node_modules/
+*.webp
+*.jpg
+*.png
+*.xlsx
+*.svg
+venv/
